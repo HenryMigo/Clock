@@ -1,0 +1,14 @@
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\Clock.deps.json
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\Clock.runtimeconfig.json
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\Clock.runtimeconfig.dev.json
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\Clock.dll
+D:\learning\Exercism\csharp\clock\bin\Debug\netcoreapp2.0\Clock.pdb
+D:\learning\Exercism\csharp\clock\obj\Debug\netcoreapp2.0\Clock.csprojAssemblyReference.cache
+D:\learning\Exercism\csharp\clock\obj\Debug\netcoreapp2.0\Clock.csproj.CoreCompileInputs.cache
+D:\learning\Exercism\csharp\clock\obj\Debug\netcoreapp2.0\Clock.AssemblyInfoInputs.cache
+D:\learning\Exercism\csharp\clock\obj\Debug\netcoreapp2.0\Clock.AssemblyInfo.cs
+D:\learning\Exercism\csharp\clock\obj\Debug\netcoreapp2.0\Clock.dll
+D:\learning\Exercism\csharp\clock\obj\Debug\netcoreapp2.0\Clock.pdb
